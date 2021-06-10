@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denemetest06&theme=dark)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denemetest06&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denemetest06&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
