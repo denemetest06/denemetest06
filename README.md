@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api" />
 </a>
 
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](your image link)](https://github.com/denemetest06)
