@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denemetest06&theme=dark&hide_border=true&currStreakNum=A9FEF7&fire=D93A7C&ring=D93A7C&currStreakLabel=A9FEF7&sideLabels=A9FEF7&sideNums=A9FEF7&dates=D7D747)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denemetest06&background=141321k&hide_border=true&currStreakNum=A9FEF7&fire=D93A7C&ring=D93A7C&currStreakLabel=A9FEF7&sideLabels=A9FEF7&sideNums=A9FEF7&dates=D7D747)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denemetest06&show_icons=true&theme=radical)
 
