@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=denemetest06&color=green)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denemetest06&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denemetest06&repo=denemetest06)](https://github.com/denemetest06/denemetest06)
 
