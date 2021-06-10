@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denemetest06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denemetest06&repo=github-readme-stats" />
+  <img align="center" src="https://github.com/denemetest06/denemetest06/blob/main/README.md" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denemetest06&repo=convoychat" />
+  <img align="center" src="https://github.com/denemetest06/denemetest06/blob/main/README.md" />
 </a>
