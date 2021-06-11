@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denemetest06&repo=denemetest06)](https://github.com/denemetest06/denemetest06)-->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denemetest06&layout=compact&bg_color=151515&text_color=D93A7C" alt="denemetest06" /></p>
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=denemetest06&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 
 
