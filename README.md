@@ -22,13 +22,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=denemetest06&show_icons=true&theme=radical">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=denemetest06&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denemetest06&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 <h3 align="center">Connect with me:</h3>
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
