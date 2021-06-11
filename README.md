@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Connect with me:</h3>
+
 <br>
+
 <p align="center">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
