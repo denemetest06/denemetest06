@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=denemetest06&color=green">
 </p>
-![](https://komarev.com/ghpvc/?username=denemetest06&color=green)
 
 
 
