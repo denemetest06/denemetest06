@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denemetest06&background=141321&fire=D93A7C&ring=D93A7C&currStreakNum=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&sideLabels=A9FEF7&dates=F7D747&border=D93A7C&stroke=D93A7C)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denemetest06&show_icons=true&theme=radical)
+
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denemetest06&show_icons=true&theme=radical)
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=denemetest06&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=denemetest06&show_icons=true&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=denemetest06&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 
