@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denemetest06&repo=denemetest06)](https://github.com/denemetest06/denemetest06)-->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=denemetest06&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 
 
